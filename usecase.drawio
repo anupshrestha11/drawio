@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T18:39:04.006Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="JIflUA0hYYC-SWbaH7Kg" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T18:40:20.852Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="gfRDziUwRuKpXAPUiLsv" version="14.6.1" type="github">
   <diagram id="7PAAJETbVV3YSlwWJHKw" name="Page-1">
     <mxGraphModel dx="1408" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="rYNnt27knb08ocC6amlj-49" value="Ask to forum" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="240" y="551" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rYNnt27knb08ocC6amlj-50" value="Like &amp;amp; dislike the forum" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="rYNnt27knb08ocC6amlj-50" value="Like &amp;amp; dislike question &amp;amp; answer" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="240" y="611" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rYNnt27knb08ocC6amlj-59" value="Chat with other users" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
