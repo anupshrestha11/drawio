@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T18:23:58.435Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Fa7W5CkPskshq6FKA3Ec" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T18:29:47.792Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="yGx-1fqT11iic6HGTrcy" version="14.6.1" type="github">
   <diagram id="Unm_uAfs58OZs6PYcYWB" name="Page-1">
-    <mxGraphModel dx="1408" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="ashAsfL3mfI0mAC-k0gn-29" value="Add User / Editor" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="630" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ashAsfL3mfI0mAC-k0gn-30" value="manga Forum" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ashAsfL3mfI0mAC-k0gn-30" value="manage Forum" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="750" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ashAsfL3mfI0mAC-k0gn-31" value="Edit/Delete User" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
